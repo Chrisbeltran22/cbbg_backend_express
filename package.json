@@ -1,0 +1,32 @@
+{
+  "name": "cbbg_backend_express",
+  "version": "1.0.0",
+  "description": "Backend de una aplicación móvil",
+  "keywords": [
+    "backend",
+    "express",
+    "christopher",
+    "bryan",
+    "beltran",
+    "gonzalez"
+  ],
+  "homepage": "https://github.com/Chrisbeltran22/cbbg_backend_express#readme",
+  "bugs": {
+    "url": "https://github.com/Chrisbeltran22/cbbg_backend_express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisbeltran22/cbbg_backend_express.git"
+  },
+  "license": "ISC",
+  "author": "Christopher Bryan Beltrán González",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
